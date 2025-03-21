@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "NodeNext",
+      "strict": true,
+      "outDir": "../../dist-electron",
+      "esModuleInterop": true,
+      "allowJs": true,
+      "moduleResolution": "nodenext",
+      "resolveJsonModule": true,
+      "skipLibCheck": true
+    }
+  }
+  
